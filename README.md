@@ -1,1 +1,1 @@
- print("NO SCRIPT")
+ print ("NO SCRIPT")
